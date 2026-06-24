@@ -147,7 +147,7 @@ Only main chapters:
 ##### :black_small_square: Text editors
 
 <p>
-&nbsp;&nbsp; <a href="http://ex-vi.sourceforge.net/"><b>vi</b></a> - is one of the most common text editors on Unix.<br>
+&nbsp;&nbsp; <a href="https://ex-vi.sourceforge.net/"><b>vi</b></a> - is one of the most common text editors on Unix.<br>
 &nbsp;&nbsp; <a href="https://www.vim.org/"><b>vim</b></a> - is a highly configurable text editor.<br>
 &nbsp;&nbsp; <a href="https://www.gnu.org/software/emacs/"><b>emacs</b></a> - is an extensible, customizable, free/libre text editor, and more.<br>
 &nbsp;&nbsp; <a href="https://github.com/zyedidia/micro"><b>micro</b></a> - is a modern and intuitive terminal-based text editor.<br>
@@ -174,21 +174,21 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br>
 &nbsp;&nbsp; <a href="https://github.com/robertdavidgraham/masscan"><b>masscan</b></a> - is the fastest Internet port scanner, spews SYN packets asynchronously.<br>
 &nbsp;&nbsp; <a href="https://github.com/gvb84/pbscan"><b>pbscan</b></a> - is a faster and more efficient stateless SYN scanner and banner grabber.<br>
-&nbsp;&nbsp; <a href="http://www.hping.org/"><b>hping</b></a> - is a command-line oriented TCP/IP packet assembler/analyzer.<br>
+&nbsp;&nbsp; <a href="https://www.hping.org/"><b>hping</b></a> - is a command-line oriented TCP/IP packet assembler/analyzer.<br>
 &nbsp;&nbsp; <a href="https://github.com/traviscross/mtr"><b>mtr</b></a> - is a tool that combines the functionality of the 'traceroute' and 'ping' programs in a single tool.<br>
 &nbsp;&nbsp; <a href="https://github.com/mehrdadrad/mylg"><b>mylg</b></a> - utility which combines the functions of the different network probes in one diagnostic tool.<br>
-&nbsp;&nbsp; <a href="http://netcat.sourceforge.net/"><b>netcat</b></a> - utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
-&nbsp;&nbsp; <a href="http://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br>
+&nbsp;&nbsp; <a href="https://netcat.sourceforge.net/"><b>netcat</b></a> - utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
+&nbsp;&nbsp; <a href="https://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br>
 &nbsp;&nbsp; <a href="https://www.tcpdump.org/"><b>tcpdump</b></a> - is a powerful command-line packet analyzer.<br>
 &nbsp;&nbsp; <a href="https://www.wireshark.org/docs/man-pages/tshark.html"><b>tshark</b></a> - is a tool that allows us to dump and analyze network traffic (wireshark cli).<br>
 &nbsp;&nbsp; <a href="https://termshark.io/"><b>Termshark</b></a> - is a simple terminal user-interface for tshark.<br>
 &nbsp;&nbsp; <a href="https://github.com/jpr5/ngrep"><b>ngrep</b></a> - is like GNU grep applied to the network layer.<br>
-&nbsp;&nbsp; <a href="http://netsniff-ng.org/"><b>netsniff-ng</b></a> - is a Swiss army knife for your daily Linux network plumbing if you will.<br>
+&nbsp;&nbsp; <a href="https://netsniff-ng.org/"><b>netsniff-ng</b></a> - is a Swiss army knife for your daily Linux network plumbing if you will.<br>
 &nbsp;&nbsp; <a href="https://github.com/mechpen/sockdump"><b>sockdump</b></a> - dump unix domain socket traffic.<br>
 &nbsp;&nbsp; <a href="https://github.com/google/stenographer"><b>stenographer</b></a> - is a packet capture solution which aims to quickly spool all packets to disk.<br>
 &nbsp;&nbsp; <a href="https://github.com/sachaos/tcpterm"><b>tcpterm</b></a> - visualize packets in TUI.<br>
 &nbsp;&nbsp; <a href="https://github.com/tgraf/bmon"><b>bmon</b></a> - is a monitoring and debugging tool to capture networking related statistics and prepare them visually.<br>
-&nbsp;&nbsp; <a href="http://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
+&nbsp;&nbsp; <a href="https://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
 &nbsp;&nbsp; <a href="https://github.com/vergoh/vnstat"><b>vnstat</b></a> - is a network traffic monitor for Linux and BSD.<br>
 &nbsp;&nbsp; <a href="https://iperf.fr/"><b>iPerf3</b></a> - is a tool for active measurements of the maximum achievable bandwidth on IP networks.<br>
 &nbsp;&nbsp; <a href="https://github.com/Microsoft/Ethr"><b>ethr</b></a> - is a Network Performance Measurement Tool for TCP, UDP & HTTP.<br>
@@ -264,7 +264,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/rbsec/sslscan"><b>sslscan</b></a> - tests SSL/TLS enabled services to discover supported cipher suites.<br>
 &nbsp;&nbsp; <a href="https://github.com/drwetter/testssl.sh"><b>testssl.sh</b></a> - testing TLS/SSL encryption anywhere on any port.<br>
 &nbsp;&nbsp; <a href="https://github.com/mozilla/cipherscan"><b>cipherscan</b></a> - a very simple way to find out which SSL ciphersuites are supported by a target.<br>
-&nbsp;&nbsp; <a href="http://www.tarsnap.com/spiped.html"><b>spiped</b></a> - is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.<br>
+&nbsp;&nbsp; <a href="https://www.tarsnap.com/spiped.html"><b>spiped</b></a> - is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.<br>
 &nbsp;&nbsp; <a href="https://github.com/certbot/certbot"><b>Certbot</b></a> - is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.<br>
 &nbsp;&nbsp; <a href="https://github.com/FiloSottile/mkcert"><b>mkcert</b></a> - simple zero-config tool to make locally trusted development certificates with any names you'd like.<br>
 &nbsp;&nbsp; <a href="https://github.com/square/certstrap"><b>certstrap</b></a> - tools to bootstrap CAs, certificate requests, and signed certificates.<br>
@@ -299,21 +299,21 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/strace/strace"><b>strace</b></a> - diagnostic, debugging and instructional userspace utility for Linux.<br>
-&nbsp;&nbsp; <a href="http://dtrace.org/blogs/about/"><b>DTrace</b></a> - is a performance analysis and troubleshooting tool.<br>
+&nbsp;&nbsp; <a href="https://dtrace.org/blogs/about/"><b>DTrace</b></a> - is a performance analysis and troubleshooting tool.<br>
 &nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Ltrace"><b>ltrace</b></a> - is a library call tracer, used to trace calls made by programs to library functions.<br>
 &nbsp;&nbsp; <a href="https://github.com/brainsmoke/ptrace-burrito"><b>ptrace-burrito</b></a> - is a friendly wrapper around ptrace.<br>
 &nbsp;&nbsp; <a href="https://github.com/brendangregg/perf-tools"><b>perf-tools</b></a> - performance analysis tools based on Linux perf_events (aka perf) and ftrace.<br>
 &nbsp;&nbsp; <a href="https://github.com/iovisor/bpftrace"><b>bpftrace</b></a> - high-level tracing language for Linux eBPF.<br>
 &nbsp;&nbsp; <a href="https://github.com/draios/sysdig"><b>sysdig</b></a> - system exploration and troubleshooting tool with first class support for containers.<br>
-&nbsp;&nbsp; <a href="http://www.valgrind.org/"><b>Valgrind</b></a> - is an instrumentation framework for building dynamic analysis tools.<br>
+&nbsp;&nbsp; <a href="https://www.valgrind.org/"><b>Valgrind</b></a> - is an instrumentation framework for building dynamic analysis tools.<br>
 &nbsp;&nbsp; <a href="https://github.com/gperftools/gperftools"><b>gperftools</b></a> - high-performance multi-threaded malloc() implementation, plus some performance analysis tools.<br>
 &nbsp;&nbsp; <a href="https://nicolargo.github.io/glances/"><b>glances</b></a> - cross-platform system monitoring tool written in Python.<br>
 &nbsp;&nbsp; <a href="https://github.com/hishamhm/htop"><b>htop</b></a> - interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.<br>
 &nbsp;&nbsp; <a href="https://github.com/aristocratos/bashtop"><b>bashtop</b></a> - Linux resource monitor written in pure Bash.<br>
-&nbsp;&nbsp; <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br>
+&nbsp;&nbsp; <a href="https://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br>
 &nbsp;&nbsp; <a href="https://www.atoptool.nl/"><b>atop</b></a> - ASCII performance monitor. Includes statistics for CPU, memory, disk, swap, network, and processes.<br>
 &nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Lsof"><b>lsof</b></a> - displays in its output information about files that are opened by processes.<br>
-&nbsp;&nbsp; <a href="http://www.brendangregg.com/flamegraphs.html"><b>FlameGraph</b></a> - stack trace visualizer.<br>
+&nbsp;&nbsp; <a href="https://www.brendangregg.com/flamegraphs.html"><b>FlameGraph</b></a> - stack trace visualizer.<br>
 &nbsp;&nbsp; <a href="https://github.com/zevv/lsofgraph"><b>lsofgraph</b></a> - convert Unix lsof output to a graph showing FIFO and UNIX interprocess communication.<br>
 &nbsp;&nbsp; <a href="https://github.com/mozilla/rr"><b>rr</b></a> - is a lightweight tool for recording, replaying and debugging execution of applications.<br>
 &nbsp;&nbsp; <a href="https://pcp.io/index.html"><b>Performance Co-Pilot</b></a> - a system performance analysis toolkit.<br>
@@ -368,7 +368,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/skx/sysadmin-util"><b>sysadmin-util</b></a> - tools for Linux/Unix sysadmins.<br>
-&nbsp;&nbsp; <a href="http://inotify.aiken.cz/"><b>incron</b></a> - is an inode-based filesystem notification technology.<br>
+&nbsp;&nbsp; <a href="https://inotify.aiken.cz/"><b>incron</b></a> - is an inode-based filesystem notification technology.<br>
 &nbsp;&nbsp; <a href="https://github.com/axkibe/lsyncd"><b>lsyncd</b></a> - synchronizes local directories with remote targets (Live Syncing Daemon).<br>
 &nbsp;&nbsp; <a href="https://github.com/rgburke/grv"><b>GRV</b></a> - is a terminal based interface for viewing Git repositories.<br>
 &nbsp;&nbsp; <a href="https://jonas.github.io/tig/"><b>Tig</b></a> - text-mode interface for Git.<br>
@@ -461,7 +461,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://dev.ssllabs.com/ssltest/"><b>SSLLabs Server Test (DEV)</b></a> - performs a deep analysis of the configuration of any SSL web server.<br>
 &nbsp;&nbsp; <a href="https://www.immuniweb.com/ssl/"><b>ImmuniWeb® SSLScan</b></a> - test SSL/TLS (PCI DSS, HIPAA and NIST).<br>
 &nbsp;&nbsp; <a href="https://www.jitbit.com/sslcheck/"><b>SSL Check</b></a> - scan your website for non-secure content.<br>
-&nbsp;&nbsp; <a href="http://www.ssltools.com"><b>SSL Scanner</b></a> - analyze website security.<br>
+&nbsp;&nbsp; <a href="https://www.ssltools.com"><b>SSL Scanner</b></a> - analyze website security.<br>
 &nbsp;&nbsp; <a href="https://cryptcheck.fr/"><b>CryptCheck</b></a> - test your TLS server configuration (e.g. ciphers).<br>
 &nbsp;&nbsp; <a href="https://urlscan.io/"><b>urlscan.io</b></a> - service to scan and analyse websites.<br>
 &nbsp;&nbsp; <a href="https://report-uri.com/home/tools"><b>Report URI</b></a> - monitoring security policies like CSP and HPKP.<br>
@@ -496,21 +496,21 @@ Only main chapters:
 ##### :black_small_square: DNS
 
 <p>
-&nbsp;&nbsp; <a href="http://viewdns.info/"><b>ViewDNS</b></a> - one source for free DNS related tools and information.<br>
+&nbsp;&nbsp; <a href="https://viewdns.info/"><b>ViewDNS</b></a> - one source for free DNS related tools and information.<br>
 &nbsp;&nbsp; <a href="https://dnslookup.org/"><b>DNSLookup</b></a> - is an advanced DNS lookup tool.<br>
 &nbsp;&nbsp; <a href="https://dnslytics.com/"><b>DNSlytics</b></a> - online DNS investigation tool.<br>
 &nbsp;&nbsp; <a href="https://dnsspy.io/"><b>DNS Spy</b></a> - monitor, validate and verify your DNS configurations.<br>
 &nbsp;&nbsp; <a href="https://zonemaster.iis.se/en/"><b>Zonemaster</b></a> - helps you to control how your DNS works.<br>
-&nbsp;&nbsp; <a href="http://leafdns.com/"><b>Leaf DNS</b></a> - comprehensive DNS tester.<br>
+&nbsp;&nbsp; <a href="https://leafdns.com/"><b>Leaf DNS</b></a> - comprehensive DNS tester.<br>
 &nbsp;&nbsp; <a href="https://findsubdomains.com/"><b>Find subdomains online</b></a> - find subdomains for security assessment penetration test.<br>
 &nbsp;&nbsp; <a href="https://dnsdumpster.com/"><b>DNSdumpster</b></a> - dns recon & research, find & lookup dns records.<br>
 &nbsp;&nbsp; <a href="https://dnstable.com/"><b>DNS Table online</b></a> - search for DNS records by domain, IP, CIDR, ISP.<br>
 &nbsp;&nbsp; <a href="https://intodns.com/"><b>intoDNS</b></a> - DNS and mail server health checker.<br>
-&nbsp;&nbsp; <a href="http://www.zonecut.net/dns/"><b>DNS Bajaj</b></a> - check the delegation of your domain.<br>
+&nbsp;&nbsp; <a href="https://www.zonecut.net/dns/"><b>DNS Bajaj</b></a> - check the delegation of your domain.<br>
 &nbsp;&nbsp; <a href="https://www.buddyns.com/delegation-lab/"><b>BuddyDNS Delegation LAB</b></a> - check, trace and visualize delegation of your domain.<br>
 &nbsp;&nbsp; <a href="https://dnssec-debugger.verisignlabs.com/"><b>dnssec-debugger</b></a> - DS or DNSKEY records validator.<br>
-&nbsp;&nbsp; <a href="http://ptrarchive.com/"><b>PTRarchive.com</b></a> - this site is responsible for the safekeeping of historical reverse DNS records.<br>
-&nbsp;&nbsp; <a href="http://xip.io/"><b>xip.io</b></a> - wildcard DNS for everyone.<br>
+&nbsp;&nbsp; <a href="https://ptrarchive.com/"><b>PTRarchive.com</b></a> - this site is responsible for the safekeeping of historical reverse DNS records.<br>
+&nbsp;&nbsp; <a href="https://xip.io/"><b>xip.io</b></a> - wildcard DNS for everyone.<br>
 &nbsp;&nbsp; <a href="https://nip.io/"><b>nip.io</b></a> - dead simple wildcard DNS for any IP Address.<br>
 &nbsp;&nbsp; <a href="https://ceipam.eu/en/dnslookup.php"><b>dnslookup (ceipam)</b></a> - one of the best DNS propagation checker (and not only).<br>
 &nbsp;&nbsp; <a href="https://whatsmydns.com"><b>What's My DNS</b></a> - DNS propagation checking tool.<br>
@@ -523,8 +523,8 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://luxsci.com/smtp-tls-checker"><b>smtp-tls-checker</b></a> - check an email domain for SMTP TLS support.<br>
 &nbsp;&nbsp; <a href="https://mxtoolbox.com/SuperTool.aspx"><b>MX Toolbox</b></a> - all of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.<br>
 &nbsp;&nbsp; <a href="https://www.checktls.com/index.html"><b>Secure Email</b></a> - complete email test tools for email technicians.<br>
-&nbsp;&nbsp; <a href="http://www.blacklistalert.org/"><b>blacklistalert</b></a> - checks to see if your domain is on a Real Time Spam Blacklist.<br>
-&nbsp;&nbsp; <a href="http://multirbl.valli.org/"><b>MultiRBL</b></a> - complete IP check for sending Mailservers.<br>
+&nbsp;&nbsp; <a href="https://www.blacklistalert.org/"><b>blacklistalert</b></a> - checks to see if your domain is on a Real Time Spam Blacklist.<br>
+&nbsp;&nbsp; <a href="https://multirbl.valli.org/"><b>MultiRBL</b></a> - complete IP check for sending Mailservers.<br>
 &nbsp;&nbsp; <a href="https://dkimvalidator.com/"><b>DKIM SPF & Spam Assassin Validator</b></a> - checks mail authentication and scores messages with Spam Assassin.<br>
 </p>
 
@@ -571,9 +571,9 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://explainshell.com/"><b>explainshell</b></a> - get interactive help texts for shell commands.<br>
 &nbsp;&nbsp; <a href="https://jsbin.com/?html,output"><b>jsbin</b></a> - live pastebin for HTML, CSS & JavaScript, and more.<br>
 &nbsp;&nbsp; <a href="https://codesandbox.io/"><b>CodeSandbox</b></a> - online code editor for web application development.<br>
-&nbsp;&nbsp; <a href="http://sandbox.onlinephpfunctions.com/"><b>PHP Sandbox</b></a> - test your PHP code with this code tester.<br>
+&nbsp;&nbsp; <a href="https://sandbox.onlinephpfunctions.com/"><b>PHP Sandbox</b></a> - test your PHP code with this code tester.<br>
 &nbsp;&nbsp; <a href="https://www.repl.it/"><b>Repl.it</b></a> - an instant IDE to learn, build, collaborate, and host all in one place.<br>
-&nbsp;&nbsp; <a href="http://www.vclfiddle.net/"><b>vclFiddle</b></a> - is an online tool for experimenting with the Varnish Cache VCL.<br>
+&nbsp;&nbsp; <a href="https://www.vclfiddle.net/"><b>vclFiddle</b></a> - is an online tool for experimenting with the Varnish Cache VCL.<br>
 &nbsp;&nbsp; <a href="https://github.com/hadolint/hadolint"><b>Haskell Dockerfile Linter</b></a> - a smarter Dockerfile linter that helps you build best practice Docker images.<br>
 </p>
 
@@ -616,7 +616,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://vigilante.pw/"><b>Vigilante.pw</b></a> - the breached database directory.<br>
 &nbsp;&nbsp; <a href="https://builtwith.com/"><b>builtwith</b></a> - find out what websites are built with.<br>
 &nbsp;&nbsp; <a href="https://nerdydata.com/"><b>NerdyData</b></a> - search the web's source code for technologies, across millions of sites.<br>
-&nbsp;&nbsp; <a href="http://zorexeye.com/"><b>zorexeye</b></a> - search for sites, images, apps, softwares & more.<br>
+&nbsp;&nbsp; <a href="https://zorexeye.com/"><b>zorexeye</b></a> - search for sites, images, apps, softwares & more.<br>
 &nbsp;&nbsp; <a href="https://www.mmnt.net/"><b>Mamont's open FTP Index</b></a> - if a target has an open FTP site with accessible content it will be listed here.<br>
 &nbsp;&nbsp; <a href="https://osintframework.com/"><b>OSINT Framework</b></a> - focused on gathering information from free tools or resources.<br>
 &nbsp;&nbsp; <a href="https://www.maltiverse.com/search"><b>maltiverse</b></a> - is a service oriented to cybersecurity analysts.<br>
@@ -624,12 +624,12 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://search.weleakinfo.com/"><b>We Leak Info</b></a> - to help everyday individuals secure their online life, avoiding getting hacked.<br>
 &nbsp;&nbsp; <a href="https://pipl.com/"><b>pipl</b></a> - is the place to find the person behind the email address, social username or phone number.<br>
 &nbsp;&nbsp; <a href="https://abuse.ch/"><b>abuse.ch</b></a> - is operated by a random swiss guy fighting malware for non-profit.<br>
-&nbsp;&nbsp; <a href="http://malc0de.com/database/"><b>malc0de</b></a> - malware search engine.<br>
+&nbsp;&nbsp; <a href="https://malc0de.com/database/"><b>malc0de</b></a> - malware search engine.<br>
 &nbsp;&nbsp; <a href="https://cybercrime-tracker.net/index.php"><b>Cybercrime Tracker</b></a> - monitors and tracks various malware families that are used to perpetrate cyber crimes.<br>
 &nbsp;&nbsp; <a href="https://github.com/eth0izzle/shhgit/"><b>shhgit</b></a> - find GitHub secrets in real time.<br>
 &nbsp;&nbsp; <a href="https://searchcode.com/"><b>searchcode</b></a> - helping you find real world examples of functions, API's and libraries.<br>
-&nbsp;&nbsp; <a href="http://www.insecam.org/"><b>Insecam</b></a> - the world biggest directory of online surveillance security cameras.<br>
-&nbsp;&nbsp; <a href="http://index-of.es/"><b>index-of</b></a> - contains great stuff like: security, hacking, reverse engineering, cryptography, programming etc.<br>
+&nbsp;&nbsp; <a href="https://www.insecam.org/"><b>Insecam</b></a> - the world biggest directory of online surveillance security cameras.<br>
+&nbsp;&nbsp; <a href="https://index-of.es/"><b>index-of</b></a> - contains great stuff like: security, hacking, reverse engineering, cryptography, programming etc.<br>
 &nbsp;&nbsp; <a href="https://opendata.rapid7.com/"><b>Rapid7 Labs Open Data</b></a> - is a great resources of datasets from Project Sonar.<br>
 &nbsp;&nbsp; <a href="https://webtechsurvey.com/common-response-headers"><b>Common Response Headers</b></a> - the largest database of HTTP response headers.<br>
 &nbsp;&nbsp; <a href="https://labs.inquest.net"><b>InQuest Labs</b></a> - InQuest Labs is an open, interactive, and API driven data portal for security researchers.<br>
@@ -690,7 +690,7 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp; <a href="https://countermail.com/"><b>CounterMail</b></a> - online email service, designed to provide maximum security and privacy.<br>
-&nbsp;&nbsp; <a href="http://mail2tor.com/"><b>Mail2Tor</b></a> - is a Tor Hidden Service that allows anyone to send and receive emails anonymously.<br>
+&nbsp;&nbsp; <a href="https://mail2tor.com/"><b>Mail2Tor</b></a> - is a Tor Hidden Service that allows anyone to send and receive emails anonymously.<br>
 &nbsp;&nbsp; <a href="https://tutanota.com/"><b>Tutanota</b></a> - is the world's most secure email service and amazingly easy to use.<br>
 &nbsp;&nbsp; <a href="https://protonmail.com/"><b>Protonmail</b></a> - is the world's largest secure email service, developed by CERN and MIT scientists.<br>
 &nbsp;&nbsp; <a href="https://www.startmail.com/en/"><b>Startmail</b></a> - private & encrypted email made easy.<br>
@@ -713,7 +713,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Operating Systems
 
 <p>
-&nbsp;&nbsp; <a href="http://www.slackware.com/"><b>Slackware</b></a> - the most "Unix-like" Linux distribution.<br>
+&nbsp;&nbsp; <a href="https://www.slackware.com/"><b>Slackware</b></a> - the most "Unix-like" Linux distribution.<br>
 &nbsp;&nbsp; <a href="https://www.openbsd.org/"><b>OpenBSD</b></a> - multi-platform 4.4BSD-based UNIX-like operating system.<br>
 &nbsp;&nbsp; <a href="https://hardenedbsd.org/"><b>HardenedBSD</b></a> - HardenedBSD aims to implement innovative exploit mitigation and security solutions.<br>
 &nbsp;&nbsp; <a href="https://www.kali.org/"><b>Kali Linux</b></a> - Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments.<br>
@@ -842,7 +842,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/Idnan/bash-guide"><b>bash-guide</b></a> - is a guide to learn bash.<br>
 &nbsp;&nbsp; <a href="https://github.com/denysdovhan/bash-handbook"><b>bash-handbook</b></a> - for those who wanna learn Bash.<br>
 &nbsp;&nbsp; <a href="https://wiki.bash-hackers.org/start"><b>The Bash Hackers Wiki</b></a> - hold documentation of any kind about GNU Bash.<br>
-&nbsp;&nbsp; <a href="http://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html"><b>Shell & Utilities</b></a> - describes the commands offered to application programs by POSIX-conformant systems.<br>
+&nbsp;&nbsp; <a href="https://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html"><b>Shell & Utilities</b></a> - describes the commands offered to application programs by POSIX-conformant systems.<br>
 &nbsp;&nbsp; <a href="https://github.com/jlevy/the-art-of-command-line"><b>the-art-of-command-line</b></a> - master the command line, in one page.<br>
 &nbsp;&nbsp; <a href="https://google.github.io/styleguide/shellguide.html"><b>Shell Style Guide</b></a> - a shell style guide for Google-originated open-source projects.<br>
 </p>
@@ -872,10 +872,10 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp; <a href="https://www.cyberciti.biz/"><b>nixCraft</b></a> - linux and unix tutorials for new and seasoned sysadmin.<br>
 &nbsp;&nbsp; <a href="https://www.tecmint.com/"><b>TecMint</b></a> - the ideal Linux blog for Sysadmins & Geeks.<br>
-&nbsp;&nbsp; <a href="http://www.omnisecu.com/index.php"><b>Omnisecu</b></a> - free Networking, System Administration and Security tutorials.<br>
+&nbsp;&nbsp; <a href="https://www.omnisecu.com/index.php"><b>Omnisecu</b></a> - free Networking, System Administration and Security tutorials.<br>
 &nbsp;&nbsp; <a href="https://github.com/cirosantilli/linux-cheat"><b>linux-cheat</b></a> - Linux tutorials and cheatsheets. Minimal examples. Mostly user-land CLI utilities.<br>
 &nbsp;&nbsp; <a href="https://github.com/snori74/linuxupskillchallenge"><b>linuxupskillchallenge</b></a> - learn the skills required to sysadmin.<br>
-&nbsp;&nbsp; <a href="http://cb.vu/unixtoolbox.xhtml"><b>Unix Toolbox</b></a> - Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users.<br>
+&nbsp;&nbsp; <a href="https://cb.vu/unixtoolbox.xhtml"><b>Unix Toolbox</b></a> - Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users.<br>
 &nbsp;&nbsp; <a href="https://linux-kernel-labs.github.io/refs/heads/master/index.html"><b>Linux Kernel Teaching</b></a> - is a collection of lectures and labs Linux kernel topics.<br>
 &nbsp;&nbsp; <a href="https://peteris.rocks/blog/htop/"><b>htop explained</b></a> - explanation of everything you can see in htop/top on Linux.<br>
 &nbsp;&nbsp; <a href="https://linuxguideandhints.com/"><b>Linux Guide and Hints</b></a> - tutorials on system administration in Fedora and CentOS.<br>
@@ -926,7 +926,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://inventory.rawsec.ml/index.html"><b>Rawsec's CyberSecurity Inventory</b></a> - an inventory of tools and resources about CyberSecurity.<br>
 &nbsp;&nbsp; <a href="https://tls.ulfheim.net/"><b>The Illustrated TLS Connection</b></a> - every byte of a TLS connection explained and reproduced.<br>
 &nbsp;&nbsp; <a href="https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices"><b>SSL Research</b></a> - SSL and TLS Deployment Best Practices by SSL Labs.<br>
-&nbsp;&nbsp; <a href="http://selinuxgame.org/index.html"><b>SELinux Game</b></a> - learn SELinux by doing. Solve Puzzles, show skillz.<br>
+&nbsp;&nbsp; <a href="https://selinuxgame.org/index.html"><b>SELinux Game</b></a> - learn SELinux by doing. Solve Puzzles, show skillz.<br>
 &nbsp;&nbsp; <a href="https://smallstep.com/blog/everything-pki.html"><b>Certificates and PKI</b></a> - everything you should know about certificates and PKI but are too afraid to ask.<br>
 &nbsp;&nbsp; <a href="https://appsecco.com/books/subdomain-enumeration/"><b>The Art of Subdomain Enumeration</b></a> - a reference for subdomain enumeration techniques.<br>
 &nbsp;&nbsp; <a href="https://lifehacker.com/the-comprehensive-guide-to-quitting-google-1830001964"><b>Quitting Google</b></a> - the comprehensive guide to quitting Google.<br>
@@ -982,9 +982,9 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/manoelt/50M_CTF_Writeup"><b>50M_CTF_Writeup</b></a> - $50 million CTF from Hackerone - writeup.<br>
 &nbsp;&nbsp; <a href="https://github.com/j00ru/ctf-tasks"><b>ctf-tasks</b></a> - an archive of low-level CTF challenges developed over the years.<br>
 &nbsp;&nbsp; <a href="https://hshrzd.wordpress.com/how-to-start/"><b>How to start RE/malware analysis?</b></a> - collection of some hints and useful links for the beginners.<br>
-&nbsp;&nbsp; <a href="http://www.kegel.com/c10k.html"><b>The C10K problem</b></a> - it's time for web servers to handle ten thousand clients simultaneously, don't you think?<br>
+&nbsp;&nbsp; <a href="https://www.kegel.com/c10k.html"><b>The C10K problem</b></a> - it's time for web servers to handle ten thousand clients simultaneously, don't you think?<br>
 &nbsp;&nbsp; <a href="https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500"><b>How 1500 bytes became the MTU of the internet</b></a> - great story about the Maximum Transmission Unit.<br>
-&nbsp;&nbsp; <a href="http://poormansprofiler.org/"><b>poor man's profiler</b></a> - like dtrace's don't really provide methods to see what programs are blocking on.<br>
+&nbsp;&nbsp; <a href="https://poormansprofiler.org/"><b>poor man's profiler</b></a> - like dtrace's don't really provide methods to see what programs are blocking on.<br>
 &nbsp;&nbsp; <a href="https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/"><b>HTTPS on Stack Overflow</b></a> - this is the story of a long journey regarding the implementation of SSL.<br>
 &nbsp;&nbsp; <a href="https://drawings.jvns.ca/"><b>Julia's Drawings</b></a> - some drawings about programming and unix world, zines about systems & debugging tools.<br>
 &nbsp;&nbsp; <a href="https://github.com/corkami/collisions"><b>Hash collisions</b></a> - this great repository is focused on hash collisions exploitation.<br>
@@ -997,15 +997,15 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://robertheaton.com/2018/11/28/https-in-the-real-world/"><b>HTTPS in the real world</b></a> - great tutorial explain how HTTPS works in the real world.<br>
 &nbsp;&nbsp; <a href="https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/"><b>Gitlab and NFS bug</b></a> - how we spent two weeks hunting an NFS bug in the Linux kernel.<br>
 &nbsp;&nbsp; <a href="https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/"><b>Gitlab melts down</b></a> - postmortem on the database outage of January 31 2017 with the lessons we learned.<br>
-&nbsp;&nbsp; <a href="http://www.catb.org/esr/faqs/hacker-howto.html"><b>How To Become A Hacker</b></a> - if you want to be a hacker, keep reading.<br>
-&nbsp;&nbsp; <a href="http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/"><b>Operation Costs in CPU</b></a> - should help to estimate costs of certain operations in CPU clocks.<br>
+&nbsp;&nbsp; <a href="https://www.catb.org/esr/faqs/hacker-howto.html"><b>How To Become A Hacker</b></a> - if you want to be a hacker, keep reading.<br>
+&nbsp;&nbsp; <a href="https://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/"><b>Operation Costs in CPU</b></a> - should help to estimate costs of certain operations in CPU clocks.<br>
 &nbsp;&nbsp; <a href="https://cstack.github.io/db_tutorial/"><b>Let's Build a Simple Database</b></a> - writing a sqlite clone from scratch in C.<br>
 &nbsp;&nbsp; <a href="https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/"><b>simple-computer</b></a> - great resource to understand how computers work under the hood.<br>
 &nbsp;&nbsp; <a href="https://www.troyhunt.com/working-with-154-million-records-on/"><b>The story of "Have I been pwned?"</b></a> - working with 154 million records on Azure Table Storage.<br>
 &nbsp;&nbsp; <a href="https://www.top500.org/"><b>TOP500 Supercomputers</b></a> - shows the 500 most powerful commercially available computer systems.<br>
 &nbsp;&nbsp; <a href="https://www.shellntel.com/blog/2017/2/8/how-to-build-a-8-gpu-password-cracker"><b>How to build a 8 GPU password cracker</b></a> - hours of frustration like desktop components do.<br>
 &nbsp;&nbsp; <a href="https://home.cern/science/computing"><b>CERN Data Centre</b></a> - 3D visualizations of the CERN computing environments (and more).<br>
-&nbsp;&nbsp; <a href="http://howfuckedismydatabase.com/"><b>How fucked is my database</b></a> - evaluate how fucked your database is with this handy website.<br>
+&nbsp;&nbsp; <a href="https://howfuckedismydatabase.com/"><b>How fucked is my database</b></a> - evaluate how fucked your database is with this handy website.<br>
 &nbsp;&nbsp; <a href="https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html"><b>Linux Troubleshooting 101 , 2016 Edition</b></a> - everything is a DNS Problem...<br>
 &nbsp;&nbsp; <a href="https://open.buffer.com/5-whys-process/"><b>Five Whys</b></a> - you know what the problem is, but you cannot solve it?<br>
 &nbsp;&nbsp; <a href="https://gvnshtn.com/maersk-me-notpetya/"><b>Maersk, me & notPetya</b></a> - how did ransomware successfully hijack hundreds of domain controllers?<br>
@@ -1111,9 +1111,9 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Geeky Persons
 
 <p>
-&nbsp;&nbsp; <a href="http://www.brendangregg.com/"><b>Brendan Gregg's Blog</b></a> - is an industry expert in computing performance and cloud computing.<br>
+&nbsp;&nbsp; <a href="https://www.brendangregg.com/"><b>Brendan Gregg's Blog</b></a> - is an industry expert in computing performance and cloud computing.<br>
 &nbsp;&nbsp; <a href="https://gynvael.coldwind.pl/"><b>Gynvael "GynDream" Coldwind</b></a> - is a IT security engineer at Google.<br>
-&nbsp;&nbsp; <a href="http://lcamtuf.coredump.cx/"><b>Michał "lcamtuf" Zalewski</b></a> - white hat hacker, computer security expert.<br>
+&nbsp;&nbsp; <a href="https://lcamtuf.coredump.cx/"><b>Michał "lcamtuf" Zalewski</b></a> - white hat hacker, computer security expert.<br>
 &nbsp;&nbsp; <a href="https://ma.ttias.be/"><b>Mattias Geniar</b></a> - developer, sysadmin, blogger, podcaster and public speaker.<br>
 &nbsp;&nbsp; <a href="https://nickcraver.com/"><b>Nick Craver</b></a> - software developer and systems administrator for Stack Exchange.<br>
 &nbsp;&nbsp; <a href="https://scotthelme.co.uk/"><b>Scott Helme</b></a> - security researcher, speaker and founder of securityheaders.com and report-uri.com.<br>
@@ -1137,7 +1137,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://linux-audit.com/"><b>Linux Audit</b></a> - the Linux security blog about auditing, hardening and compliance by Michael Boelen.<br>
 &nbsp;&nbsp; <a href="https://linuxsecurity.expert/"><b>
 Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, and more.<br>
-&nbsp;&nbsp; <a href="http://www.grymoire.com/"><b>The Grymoire</b></a> - collection of useful incantations for wizards, be you computer wizards, magicians, or whatever.<br>
+&nbsp;&nbsp; <a href="https://www.grymoire.com/"><b>The Grymoire</b></a> - collection of useful incantations for wizards, be you computer wizards, magicians, or whatever.<br>
 &nbsp;&nbsp; <a href="https://www.secjuice.com"><b>Secjuice</b></a> - is the only non-profit, independent and volunteer led publication in the information security space.<br>
 &nbsp;&nbsp; <a href="https://duo.com/decipher"><b>Decipher</b></a> - security news that informs and inspires.<br>
 </p>
@@ -1219,7 +1219,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 ##### :black_small_square: A piece of history
 
 <p>
-&nbsp;&nbsp; <a href="http://web.archive.org/web/20190221103734/https://ftp.arl.army.mil/~mike/howto/"><b>How to Do Things at ARL</b></a> - how to configure modems, scan images, record CD-ROMs, and other.<b>*</b><br>
+&nbsp;&nbsp; <a href="https://web.archive.org/web/20190221103734/https://ftp.arl.army.mil/~mike/howto/"><b>How to Do Things at ARL</b></a> - how to configure modems, scan images, record CD-ROMs, and other.<b>*</b><br>
 </p>
 
 ##### :black_small_square: Other
@@ -1233,14 +1233,14 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 ##### :black_small_square: Pentesters arsenal tools
 
 <p>
-&nbsp;&nbsp; <a href="http://www.syhunt.com/sandcat/"><b>Sandcat Browser</b></a> - a penetration-oriented browser with plenty of advanced functionality already built in.<br>
+&nbsp;&nbsp; <a href="https://www.syhunt.com/sandcat/"><b>Sandcat Browser</b></a> - a penetration-oriented browser with plenty of advanced functionality already built in.<br>
 &nbsp;&nbsp; <a href="https://www.metasploit.com/"><b>Metasploit</b></a> - tool and framework for pentesting system, web and many more.<br>
 &nbsp;&nbsp; <a href="https://portswigger.net/burp"><b>Burp Suite</b></a> - tool for testing web app security, intercepting proxy to replay, inject, scan and fuzz.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project"><b>OWASP Zed Attack Proxy</b></a> - intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br>
-&nbsp;&nbsp; <a href="http://w3af.org/"><b>w3af</b></a> - is a Web Application Attack and Audit Framework.<br>
+&nbsp;&nbsp; <a href="https://w3af.org/"><b>w3af</b></a> - is a Web Application Attack and Audit Framework.<br>
 &nbsp;&nbsp; <a href="https://mitmproxy.org/"><b>mitmproxy</b></a> - an interactive TLS-capable intercepting HTTP proxy for penetration testers.<br>
 &nbsp;&nbsp; <a href="https://cirt.net/Nikto2"><b>Nikto2</b></a> - web server scanner which performs comprehensive tests against web servers for multiple items.<br>
-&nbsp;&nbsp; <a href="http://sqlmap.org/"><b>sqlmap</b></a> - tool that automates the process of detecting and exploiting SQL injection flaws.<br>
+&nbsp;&nbsp; <a href="https://sqlmap.org/"><b>sqlmap</b></a> - tool that automates the process of detecting and exploiting SQL injection flaws.<br>
 &nbsp;&nbsp; <a href="https://github.com/lanmaster53/recon-ng"><b>Recon-ng</b></a> - is a full-featured Web Reconnaissance framework written in Python.<br>
 &nbsp;&nbsp; <a href="https://github.com/Tib3rius/AutoRecon"><b>AutoRecon</b></a> - is a network reconnaissance tool which performs automated enumeration of services.<br>
 &nbsp;&nbsp; <a href="https://www.faradaysec.com/"><b>Faraday</b></a> - an Integrated Multiuser Pentest Environment.<br>
@@ -1257,7 +1257,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/Nekmo/dirhunt"><b>dirhunt</b></a> - find web directories without bruteforce.<br>
 &nbsp;&nbsp; <a href="https://www.openwall.com/john/"><b>John The Ripper</b></a> - is a fast password cracker, currently available for many flavors of Unix, Windows, and other.<br>
 &nbsp;&nbsp; <a href="https://hashcat.net/hashcat/"><b>hashcat</b></a> - world's fastest and most advanced password recovery utility.<br>
-&nbsp;&nbsp; <a href="http://lcamtuf.coredump.cx/p0f3/"><b>p0f</b></a> - is a tool to identify the players behind any incidental TCP/IP communications.<br>
+&nbsp;&nbsp; <a href="https://lcamtuf.coredump.cx/p0f3/"><b>p0f</b></a> - is a tool to identify the players behind any incidental TCP/IP communications.<br>
 &nbsp;&nbsp; <a href="https://github.com/mozilla/ssh_scan"><b>ssh_scan</b></a> - a prototype SSH configuration and policy scanner.<br>
 &nbsp;&nbsp; <a href="https://github.com/woj-ciech/LeakLooker"><b>LeakLooker</b></a> - find open databases - powered by Binaryedge.io<br>
 &nbsp;&nbsp; <a href="https://github.com/offensive-security/exploitdb"><b>exploitdb</b></a> - searchable archive from The Exploit Database.<br>
@@ -1294,7 +1294,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 ##### :black_small_square: Pentests bookmarks collection
 
 <p>
-&nbsp;&nbsp; <a href="http://www.pentest-standard.org/index.php/Main_Page"><b>PTES</b></a> - the penetration testing execution standard.<br>
+&nbsp;&nbsp; <a href="https://www.pentest-standard.org/index.php/Main_Page"><b>PTES</b></a> - the penetration testing execution standard.<br>
 &nbsp;&nbsp; <a href="https://www.amanhardikar.com/mindmaps/Practice.html"><b>Pentests MindMap</b></a> - amazing mind map with vulnerable apps and systems.<br>
 &nbsp;&nbsp; <a href="https://www.amanhardikar.com/mindmaps/webapptest.html"><b>WebApps Security Tests MindMap</b></a> - incredible mind map for WebApps security tests.<br>
 &nbsp;&nbsp; <a href="https://brutelogic.com.br/blog/"><b>Brute XSS</b></a> - master the art of Cross Site Scripting.<br>
@@ -1330,13 +1330,13 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://media.defcon.org/"><b>DEF CON Media Server</b></a> - great stuff from DEFCON.<br>
 &nbsp;&nbsp; <a href="https://github.com/rshipp/awesome-malware-analysis"><b>Awesome Malware Analysis</b></a> - a curated list of awesome malware analysis tools and resources.<br>
 &nbsp;&nbsp; <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/"><b>SQL Injection Cheat Sheet</b></a> - detailed technical stuff about the many different variants of the SQL Injection.<br>
-&nbsp;&nbsp; <a href="http://kb.entersoft.co.in/"><b>Entersoft Knowledge Base</b></a> - great and detailed reference about vulnerabilities.<br>
-&nbsp;&nbsp; <a href="http://html5sec.org/"><b>HTML5 Security Cheatsheet</b></a> - a collection of HTML5 related XSS attack vectors.<br>
-&nbsp;&nbsp; <a href="http://evuln.com/tools/xss-encoder/"><b>XSS String Encoder</b></a> - for generating XSS code to check your input validation filters against XSS.<br>
+&nbsp;&nbsp; <a href="https://kb.entersoft.co.in/"><b>Entersoft Knowledge Base</b></a> - great and detailed reference about vulnerabilities.<br>
+&nbsp;&nbsp; <a href="https://html5sec.org/"><b>HTML5 Security Cheatsheet</b></a> - a collection of HTML5 related XSS attack vectors.<br>
+&nbsp;&nbsp; <a href="https://evuln.com/tools/xss-encoder/"><b>XSS String Encoder</b></a> - for generating XSS code to check your input validation filters against XSS.<br>
 &nbsp;&nbsp; <a href="https://gtfobins.github.io/"><b>GTFOBins</b></a> - list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.<br>
 &nbsp;&nbsp; <a href="https://guif.re/"><b>Guifre Ruiz Notes</b></a> - collection of security, system, network and pentest cheatsheets.<br>
-&nbsp;&nbsp; <a href="http://blog.safebuff.com/2016/07/03/SSRF-Tips/index.html"><b>SSRF Tips</b></a> - a collection of SSRF Tips.<br>
-&nbsp;&nbsp; <a href="http://shell-storm.org/repo/CTF/"><b>shell-storm repo CTF</b></a> - great archive of CTFs.<br>
+&nbsp;&nbsp; <a href="https://blog.safebuff.com/2016/07/03/SSRF-Tips/index.html"><b>SSRF Tips</b></a> - a collection of SSRF Tips.<br>
+&nbsp;&nbsp; <a href="https://shell-storm.org/repo/CTF/"><b>shell-storm repo CTF</b></a> - great archive of CTFs.<br>
 &nbsp;&nbsp; <a href="https://github.com/bl4de/ctf"><b>ctf</b></a> - CTF (Capture The Flag) writeups, code snippets, notes, scripts.<br>
 &nbsp;&nbsp; <a href="https://github.com/orangetw/My-CTF-Web-Challenges"><b>My-CTF-Web-Challenges</b></a> - collection of CTF Web challenges.<br>
 &nbsp;&nbsp; <a href="https://github.com/OWASP/owasp-mstg"><b>MSTG</b></a> - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing.<br>
@@ -1385,7 +1385,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 
 <p>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project"><b>OWASP-VWAD</b></a> - comprehensive and well maintained registry of all known vulnerable web applications.<br>
-&nbsp;&nbsp; <a href="http://www.dvwa.co.uk/"><b>DVWA</b></a> - PHP/MySQL web application that is damn vulnerable.<br>
+&nbsp;&nbsp; <a href="https://www.dvwa.co.uk/"><b>DVWA</b></a> - PHP/MySQL web application that is damn vulnerable.<br>
 &nbsp;&nbsp; <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2"><b>metasploitable2</b></a> - vulnerable web application amongst security researchers.<br>
 &nbsp;&nbsp; <a href="https://github.com/rapid7/metasploitable3"><b>metasploitable3</b></a> - is a VM that is built from the ground up with a large amount of security vulnerabilities.<br>
 &nbsp;&nbsp; <a href="https://github.com/stamparm/DSVW"><b>DSVW</b></a> - is a deliberately vulnerable web application written in under 100 lines of code.<br>
@@ -1416,7 +1416,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp; <a href="https://www.offensive-security.com/"><b>Offensive Security</b></a> - true performance-based penetration testing training for over a decade.<br>
 &nbsp;&nbsp; <a href="https://www.hackthebox.eu/"><b>Hack The Box</b></a> - online platform allowing you to test your penetration testing skills.<br>
 &nbsp;&nbsp; <a href="https://www.hacking-lab.com/index.html"><b>Hacking-Lab</b></a> - online ethical hacking, computer network and security challenge platform.<br>
-&nbsp;&nbsp; <a href="http://pwnable.kr/index.php"><b>pwnable.kr</b></a> - non-commercial wargame site which provides various pwn challenges.<br>
+&nbsp;&nbsp; <a href="https://pwnable.kr/index.php"><b>pwnable.kr</b></a> - non-commercial wargame site which provides various pwn challenges.<br>
 &nbsp;&nbsp; <a href="https://pwnable.tw/"><b>Pwnable.tw</b></a> - is a wargame site for hackers to test and expand their binary exploiting skills.<br>
 &nbsp;&nbsp; <a href="https://picoctf.com/"><b>picoCTF</b></a> - is a free computer security game targeted at middle and high school students.<br>
 &nbsp;&nbsp; <a href="https://ctflearn.com/"><b>CTFlearn</b></a> - is an online platform built to help ethical hackers learn and practice their cybersecurity knowledge.<br>
@@ -1427,12 +1427,12 @@ AWS deployment tool.<br>
 &nbsp;&nbsp; <a href="https://rozwal.to/login"><b>rozwal.to</b></a> - a great platform to train your pentesting skills.<br>
 &nbsp;&nbsp; <a href="https://tryhackme.com/"><b>TryHackMe</b></a> - learning Cyber Security made easy.<br>
 &nbsp;&nbsp; <a href="https://hackxor.net/"><b>hackxor</b></a> - is a realistic web application hacking game, designed to help players of all abilities develop their skills.<br>
-&nbsp;&nbsp; <a href="http://hack-yourself-first.com/"><b>Hack Yourself First</b></a> - it's full of nasty app sec holes.<br>
-&nbsp;&nbsp; <a href="http://overthewire.org/wargames/"><b>OverTheWire</b></a> - can help you to learn and practice security concepts in the form of fun-filled games.<br>
+&nbsp;&nbsp; <a href="https://hack-yourself-first.com/"><b>Hack Yourself First</b></a> - it's full of nasty app sec holes.<br>
+&nbsp;&nbsp; <a href="https://overthewire.org/wargames/"><b>OverTheWire</b></a> - can help you to learn and practice security concepts in the form of fun-filled games.<br>
 &nbsp;&nbsp; <a href="https://labs.wizard-security.net/"><b>Wizard Labs</b></a> - is an online Penetration Testing Lab.<br>
 &nbsp;&nbsp; <a href="https://pentesterlab.com/"><b>PentesterLab</b></a> - provides vulnerable systems that can be used to test and understand vulnerabilities.<br>
 &nbsp;&nbsp; <a href="https://ringzer0ctf.com/"><b>RingZer0</b></a> - tons of challenges designed to test and improve your hacking skills.<br>
-&nbsp;&nbsp; <a href="http://www.try2hack.nl/"><b>try2hack</b></a> - several security-oriented challenges for your entertainment.<br>
+&nbsp;&nbsp; <a href="https://www.try2hack.nl/"><b>try2hack</b></a> - several security-oriented challenges for your entertainment.<br>
 &nbsp;&nbsp; <a href="https://www.ubeeri.com/preconfig-labs"><b>Ubeeri</b></a> - preconfigured lab environments.<br>
 &nbsp;&nbsp; <a href="https://lab.pentestit.ru/"><b>Pentestit</b></a> - emulate IT infrastructures of real companies for legal pen testing and improving pentest skills.<br>
 &nbsp;&nbsp; <a href="https://microcorruption.com/login"><b>Microcorruption</b></a> - reversal challenges done in the web interface.<br>
@@ -1451,7 +1451,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp; <a href="https://www.hackergateway.com/"><b>Hacker Gateway</b></a> - is the go-to place for hackers who want to test their skills.<br>
 &nbsp;&nbsp; <a href="https://www.hacker101.com/"><b>Hacker101</b></a> - is a free class for web security.<br>
 &nbsp;&nbsp; <a href="https://contained.af/"><b>contained.af</b></a> - a stupid game for learning about containers, capabilities, and syscalls.<br>
-&nbsp;&nbsp; <a href="http://flaws.cloud/"><b>flAWS challenge!</b></a> - a series of levels you'll learn about common mistakes and gotchas when using AWS.<br>
+&nbsp;&nbsp; <a href="https://flaws.cloud/"><b>flAWS challenge!</b></a> - a series of levels you'll learn about common mistakes and gotchas when using AWS.<br>
 &nbsp;&nbsp; <a href="https://cybersecurity.wtf"><b>CyberSec WTF</b></a> - provides web hacking challenges derived from bounty write-ups.<br>
 &nbsp;&nbsp; <a href="https://ctfchallenge.co.uk/login"><b>CTF Challenge</b></a> - CTF Web App challenges.<br>
 &nbsp;&nbsp; <a href="https://capturetheflag.withgoogle.com"><b>gCTF</b></a> - most of the challenges used in the Google CTF 2017.<br>
@@ -1474,7 +1474,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp; <a href="https://github.com/bugcrowd/bugcrowd_university"><b>Bugcrowd University</b></a> - open source education content for the researcher community.<br>
 &nbsp;&nbsp; <a href="https://github.com/rewardone/OSCPRepo"><b>OSCPRepo</b></a> - a list of resources and scripts that I have been gathering in preparation for the OSCP.<br>
 &nbsp;&nbsp; <a href="https://medium.com/@cxosmo/owasp-top-10-real-world-examples-part-1-a540c4ea2df5"><b>OWASP Top 10: Real-World Examples</b></a> - test your web apps with real-world examples (two-part series).<br>
-&nbsp;&nbsp; <a href="http://phrack.org/index.html"><b>phrack.org</b></a> - an awesome collection of articles from several respected hackers and other thinkers.<br>
+&nbsp;&nbsp; <a href="https://phrack.org/index.html"><b>phrack.org</b></a> - an awesome collection of articles from several respected hackers and other thinkers.<br>
 &nbsp;&nbsp; <a href="https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources"><b>Practical-Ethical-Hacking-Resources</b></a> - compilation of resources from TCM's Udemy Course.<br>
 </p>
 
@@ -1632,7 +1632,7 @@ http://192.168.516 → 192.168.2.4
 
   > This bypasses WAF filters for SSRF, open-redirect, etc where any IP as input gets blacklisted.
 
-For more information please see [How to Obscure Any URL](http://www.pc-help.org/obscure.htm) and [Magic IP Address Shortcuts](https://stuff-things.net/2014/09/25/magic-ip-address-shortcuts/).
+For more information please see [How to Obscure Any URL](https://www.pc-help.org/obscure.htm) and [Magic IP Address Shortcuts](https://stuff-things.net/2014/09/25/magic-ip-address-shortcuts/).
 
 ###### Hashing, encryption and encoding (by [Michal Špaček](https://twitter.com/spazef0rze))
 
@@ -2309,7 +2309,7 @@ diff <(cat /etc/passwd) <(cut -f2 /etc/passwd)
 
 ___
 
-##### Tool: [vimdiff](http://vimdoc.sourceforge.net/htmldoc/diff.html)
+##### Tool: [vimdiff](https://vimdoc.sourceforge.net/htmldoc/diff.html)
 
 ###### Highlight the exact differences, based on characters and words
 
@@ -2403,7 +2403,7 @@ restore -rf /backup/system$(date +%d%m%Y%s).lzo
 
 ___
 
-##### Tool: [cpulimit](http://cpulimit.sourceforge.net/)
+##### Tool: [cpulimit](https://cpulimit.sourceforge.net/)
 
 ###### Limit the cpu usage of a process
 
@@ -3350,7 +3350,7 @@ exec 5<>/dev/tcp/<host>/<port>; cat <&5 & cat >&5; exec 5>&-
 
 ___
 
-##### Tool: [tcpdump](http://www.tcpdump.org/)
+##### Tool: [tcpdump](https://www.tcpdump.org/)
 
 ###### Filter incoming (on interface) traffic (specific <ip:port>)
 
@@ -3449,7 +3449,7 @@ tcpdump -nei eth0 'not (src net (10 or 172.16/12 or 192.168/16) and dst net (10 
 
 ___
 
-##### Tool: [tcpick](http://tcpick.sourceforge.net/)
+##### Tool: [tcpick](https://tcpick.sourceforge.net/)
 
 ###### Analyse packets in real-time
 
@@ -3459,7 +3459,7 @@ while true ; do tcpick -a -C -r dump.pcap ; sleep 2 ; clear ; done
 
 ___
 
-##### Tool: [ngrep](http://ngrep.sourceforge.net/usage.html)
+##### Tool: [ngrep](https://ngrep.sourceforge.net/usage.html)
 
 ```bash
 ngrep -d eth0 "www.domain.com" port 443
@@ -3501,7 +3501,7 @@ ngrep -l -q -d eth0 -i "User-Agent: curl*"
 
 ___
 
-##### Tool: [hping3](http://www.hping.org/)
+##### Tool: [hping3](https://www.hping.org/)
 
 ```bash
 hping3 -V -p 80 -s 5050 <scan_type> www.google.com
@@ -3618,7 +3618,7 @@ nmap --script="$_nmap_nse_scripts" --script-args="$_nmap_nse_scripts_args" -p "$
 
 ___
 
-##### Tool: [netcat](http://netcat.sourceforge.net/)
+##### Tool: [netcat](https://netcat.sourceforge.net/)
 
 ```bash
 nc -kl 5000
@@ -3800,7 +3800,7 @@ gnutls-cli --disable-sni -p 443 google.com
 
 ___
 
-##### Tool: [socat](http://www.dest-unreach.org/socat/doc/socat.html)
+##### Tool: [socat](https://www.dest-unreach.org/socat/doc/socat.html)
 
 ###### Testing remote connection to port
 
@@ -3831,7 +3831,7 @@ socat TCP-LISTEN:1234,bind=127.0.0.1,reuseaddr,fork,su=nobody,range=127.0.0.0/8 
 
 ___
 
-##### Tool: [p0f](http://lcamtuf.coredump.cx/p0f3/)
+##### Tool: [p0f](https://lcamtuf.coredump.cx/p0f3/)
 
 ###### Set iface in promiscuous mode and dump traffic to the log file
 
@@ -4043,7 +4043,7 @@ python -m base64 -e <<< "sample string"
 python -m base64 -d <<< "dGhpcyBpcyBlbmNvZGVkCg=="
 ```
 
-##### Tool: [awk](http://www.grymoire.com/Unix/Awk.html)
+##### Tool: [awk](https://www.grymoire.com/Unix/Awk.html)
 
 ###### Search for matching lines
 
@@ -4182,7 +4182,7 @@ awk '/'$(date -d "1 hours ago" "+%d\\/%b\\/%Y:%H:%M")'/,/'$(date "+%d\\/%b\\/%Y:
 
 ___
 
-##### Tool: [sed](http://www.grymoire.com/Unix/Sed.html)
+##### Tool: [sed](https://www.grymoire.com/Unix/Sed.html)
 
 ###### Print a specific line from a file
 
@@ -4235,7 +4235,7 @@ sed '/start/,+4d' /path/to/file
 
 ___
 
-##### Tool: [grep](http://www.grymoire.com/Unix/Grep.html)
+##### Tool: [grep](https://www.grymoire.com/Unix/Grep.html)
 
 ###### Search for a "pattern" inside all files in the current directory
 
